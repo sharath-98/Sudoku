@@ -7,7 +7,7 @@ Note: If a dialog box pops up stating
 Then click on:
 ## Reopen Button
 
-# Import the following:
+# Install the following:
 
 *     brew update  
 * 		brew install pkg-config xquartz 
