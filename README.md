@@ -3,8 +3,8 @@
 ## Run app.py file
 
 Note: If a dialog box pops up stating 
-### "The last time you opened Python, it was force quit while reopening windows. Do you want to try to reopen its windows again?"
-Then click on:
+#### "The last time you opened Python, it was force quit while reopening windows. Do you want to try to reopen its windows again?"
+### Then click on:
 ## Reopen Button
 
 # Install the following:
